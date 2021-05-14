@@ -4,20 +4,20 @@
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
 
 #circle-completed {
     background: green;
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
 
 #circle-empty {
     background: grey;
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
